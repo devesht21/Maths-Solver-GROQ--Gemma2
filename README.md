@@ -1,7 +1,7 @@
 
 # Maths Solver Assistant using Langchain and Gemma 2
 
-This project is a Streamlit application that allows users to solve mathematical problems and search for information using the Langchain framework and Groq API. The application integrates multiple tools, including a math problem solver and a Wikipedia search assistant, to provide comprehensive answers to user queries.
+This project is a Streamlit application that allows users to solve mathematical problems and search for information using the Langchain framework, Groq API and Gemma 2 Model. The application integrates multiple tools, including a math problem solver and a Wikipedia search assistant, to provide comprehensive answers to user queries.
 
 
 You can check the live project [here](https://maths-solver-groq--gemma2.streamlit.app/)
